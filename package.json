@@ -21,6 +21,9 @@
 		"url": "https://github.com/codesuki/react-d3-components/issues"
 	},
 	"homepage": "https://github.com/codesuki/react-d3-components",
+	"publishConfig": {
+		"registry": "https://gryb01.hf.info.nl/repository/npm-hosted"
+	}
 	"peerDependencies": {
 		"react": "^0.14.0 || ^15.0.0",
 		"react-dom": "^0.14.0 || ^15.0.0"
